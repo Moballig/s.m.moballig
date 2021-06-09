@@ -1,0 +1,26 @@
+.body{
+	background-color: #fff;
+	margin: auto;
+
+}
+.login{
+	background-color: #888;
+	width: 350px;
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+}
+.log_in{
+   font-size:1.5em;
+   margin-top: 20px;
+}
+.from input{
+   display: block;
+   margin: auto;
+   margin-top: 10px;
+   padding: 10px;
+}
+.wr{
+	font-size: 1em
+	margin:10px;
+}
